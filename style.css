@@ -1,0 +1,14 @@
+.wrapper {
+	height: 100vh;
+	background-size: 100% 100%;
+	color: #fff;
+	min-height: 100vh; 
+	background: radial-gradient(circle, rgba(2,0,36,1) 12%, rgba(5,10,44,1) 30%, rgba(7,20,52,1) 43%, rgba(6,57,91,1) 55%, rgba(4,107,144,1) 66%, rgba(4,111,148,1) 73%, rgba(3,129,167,1) 85%, rgba(0,212,255,1) 97%);
+}
+
+/*.block {
+	border: 2px solid rgba(255, 255, 255, .1);
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(255, 255, 255, .2);
+    backdrop-filter: blur(50px);
+}*/
